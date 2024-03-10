@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Student Caller",
+      "organisation": "Telefund",
+      "startDate": "Jan, 2023",
+      "endDate": "Apr,, 2023",
+      "experiences": ["Called Alumni and raised donations"],
+      "imageSrc": "history/telefund.png"
+    },
+    {
+      "role": "Cashier",
+      "organisation": "Whole Foods Market",
+      "startDate": "May, 2022",
+      "endDate": "Aug, 2022",
+      "experiences": ["Responsible for customer experience and transactions"],
+      "imageSrc": "history/wfm.png"
+    },
+    {
+      "role": "Data Entry Associate",
+      "organisation": "RHB Laboratories",
+      "startDate": "Jan, 2022",
+      "endDate": "Apr, 2022",
+      "experiences": [
+        "Transfered covid onto database",
+        "updated patient CPT codes"
+      ],
+      "imageSrc": "history/rhb.png"
+    }
+  ]

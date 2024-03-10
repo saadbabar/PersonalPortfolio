@@ -1,0 +1,26 @@
+[
+    {
+      "title": "My Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "You are on it right now!",
+      "skills": ["React", "CSS", "Javascript"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Wire Transfer Model",
+      "imageSrc": "projects/project.png",
+      "description": "Managing wire transfers",
+      "skills": ["C++", "Hash Tables", "Priority Queues"],
+      "demo": "https://www.example.com",
+      "source": "https://gitfront.io/r/saadbabar/DJh6X7vdfgvJ/WireTransferModel/"
+    },
+    {
+      "title": "Rock, Paper, Scissors",
+      "imageSrc": "projects/project.png",
+      "description": "Basic Rock Paper Scissors game",
+      "skills": ["Python"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/saadbabar/RockPaperScissors"
+    }
+  ]
